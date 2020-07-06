@@ -10,7 +10,7 @@ docker-compose up -d
 ```
 
 ## Configuration
-You can config `MAX_LIFE` environment variable to configure how long a file should be maintained in server until user download this file.
+You can config `MAX_LIFE` environment variable to configure how long a file should be maintained in server until user download that.
 
 ## Usage
 Assume that application is running on this url: `http://example.com:3000`
